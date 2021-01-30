@@ -1,6 +1,6 @@
 # Clustering
 
-This repository is for covering clustering algorithms in ML.
+This repository is for common clustering algorithms. 
 
 ###################
 Algorithms covered
